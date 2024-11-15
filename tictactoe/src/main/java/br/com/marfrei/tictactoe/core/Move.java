@@ -5,5 +5,5 @@ public class Move {
     int i;
     int j;
 
-    
+
 }
