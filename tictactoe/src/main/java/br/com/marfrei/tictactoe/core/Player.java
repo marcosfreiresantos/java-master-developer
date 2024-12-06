@@ -3,8 +3,9 @@ package br.com.marfrei.tictactoe.core;
 public class Player {
 
     String nome;
-    Board board;
     char symbol;
+
+    Board board;
 
     Move inputMove() {
         return null;
